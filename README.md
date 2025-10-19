@@ -1,4 +1,3 @@
-# OCR_PDR-to-TXT
 # PDF OCR 批次處理工具
 
 使用 Google Gemini API 將 PDF 文件批次轉換為文字檔案的 Python 工具。
